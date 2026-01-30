@@ -1,21 +1,21 @@
-# n1ghtg1de Personal Portfoloi 
+# n1ghtg1de Portfolio 🌐
 
-This repository hosts my personal website under the n1ghtg1de identity.
+This is my personal website under the n1ghtg1de handle.
 
-## Overview
-A technical space focused on hands-on offensive security, where I document:
-- Red teaming and penetration testing practice
-- Custom tools, scripts, and lab experiments
-- Technical notes and write-ups from real-world scenarios and platforms
+## About Me
+I’m learning offensive security and documenting my journey. Here I post:
+- Labs and practice from CRTA, eCPPT, and similar courses
+- Small tools, scripts, and experiments I try out
+- Notes from my hands-on practice
 
-## Areas of Interest
-- Offensive Security & Red Teaming
-- Active Directory attacks
+## What I’m Focusing On
+- Active Directory basics
+- Internal network attacks
 - Web exploitation
-- Tool development and automation
+- Building a solid Red Team foundation
 
-## Philosophy
-This site prioritizes practical knowledge, experimentation, and real attack paths over theory and buzzwords.
+## Why This Site Exists
+To track my progress, keep my notes organized, and gradually move from labs to real-world skills.
 
 ## Status
-Actively maintained and continuously evolving.
+Learning in progress, updated regularly.
